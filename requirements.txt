@@ -1,0 +1,9 @@
+PyGuitarPro>=0.8
+boto3>=1.34
+click>=8.1
+rich>=13.7
+watchdog>=4.0
+librosa>=0.10
+scikit-learn>=1.4
+pandas>=2.2
+numpy>=1.26

@@ -1,0 +1,132 @@
+{
+  "techniques": [
+    {
+      "id": "alternate_picking",
+      "name": "Alternate Picking",
+      "description": "Strict down-up-down-up pick strokes on every note. The foundation of speed and precision in metal.",
+      "difficulty_tier": 2,
+      "depends_on": [],
+      "bpm_relevant": true
+    },
+    {
+      "id": "economy_picking",
+      "name": "Economy Picking",
+      "description": "Combine alternate picking with sweep motion when crossing strings — fewer wasted pick strokes, more efficiency at high speed.",
+      "difficulty_tier": 5,
+      "depends_on": ["alternate_picking"],
+      "bpm_relevant": true
+    },
+    {
+      "id": "legato",
+      "name": "Legato",
+      "description": "Smooth connected lines using hammer-ons and pull-offs with minimal picking. Focus on left-hand strength and consistency.",
+      "difficulty_tier": 4,
+      "depends_on": ["hammer_ons", "pull_offs"],
+      "bpm_relevant": true
+    },
+    {
+      "id": "hammer_ons",
+      "name": "Hammer-ons",
+      "description": "Fret a note without picking by hammering a finger onto the fret. Essential for legato and speed runs.",
+      "difficulty_tier": 2,
+      "depends_on": [],
+      "bpm_relevant": false
+    },
+    {
+      "id": "pull_offs",
+      "name": "Pull-offs",
+      "description": "Sound a lower note by pulling a fretting finger off the string. Paired with hammer-ons to form legato phrases.",
+      "difficulty_tier": 2,
+      "depends_on": [],
+      "bpm_relevant": false
+    },
+    {
+      "id": "bends",
+      "name": "Bends",
+      "description": "Push or pull a string across the fretboard to raise pitch. Requires string control and ear training for intonation.",
+      "difficulty_tier": 3,
+      "depends_on": [],
+      "bpm_relevant": false
+    },
+    {
+      "id": "vibrato",
+      "name": "Vibrato",
+      "description": "Oscillate pitch repeatedly on a sustained note. A defining expressive tool — speed, width, and consistency all matter.",
+      "difficulty_tier": 3,
+      "depends_on": ["bends"],
+      "bpm_relevant": false
+    },
+    {
+      "id": "slides",
+      "name": "Slides",
+      "description": "Glide a fretting finger along the string to a target fret while maintaining pressure. Smooth transitions between positions.",
+      "difficulty_tier": 2,
+      "depends_on": [],
+      "bpm_relevant": false
+    },
+    {
+      "id": "sweep_arpeggios",
+      "name": "Sweep Arpeggios",
+      "description": "Rake the pick across strings in one fluid motion while the fretting hand plays one note per string. Pinnacle technique for arpeggiated lines at speed.",
+      "difficulty_tier": 7,
+      "depends_on": ["alternate_picking", "economy_picking"],
+      "bpm_relevant": true
+    },
+    {
+      "id": "tapping",
+      "name": "Tapping",
+      "description": "Use a picking-hand finger to hammer onto the fretboard, extending legato reach across the neck. Classic metal showpiece.",
+      "difficulty_tier": 5,
+      "depends_on": ["hammer_ons", "pull_offs", "legato"],
+      "bpm_relevant": true
+    },
+    {
+      "id": "string_skipping",
+      "name": "String Skipping",
+      "description": "Skip over one or more strings between notes, creating wide intervallic leaps. Demands pick accuracy and muting discipline.",
+      "difficulty_tier": 5,
+      "depends_on": ["alternate_picking"],
+      "bpm_relevant": true
+    },
+    {
+      "id": "hybrid_picking",
+      "name": "Hybrid Picking",
+      "description": "Combine pick and fingers simultaneously, allowing simultaneous independent voices or wide interval jumps without sweep motion.",
+      "difficulty_tier": 6,
+      "depends_on": ["alternate_picking"],
+      "bpm_relevant": false
+    },
+    {
+      "id": "pinch_harmonics",
+      "name": "Pinch Harmonics",
+      "description": "Touch the string with the pick-hand thumb immediately after striking to produce a harmonic squeal. Embellishment central to metal tone.",
+      "difficulty_tier": 4,
+      "depends_on": [],
+      "bpm_relevant": false
+    },
+    {
+      "id": "palm_muting",
+      "name": "Palm Muting",
+      "description": "Rest the pick-hand palm lightly on the strings near the bridge to dampen sustain. Creates the chunky, chugging sound core to metal rhythm.",
+      "difficulty_tier": 2,
+      "depends_on": [],
+      "bpm_relevant": true
+    },
+    {
+      "id": "gallop_picking",
+      "name": "Gallop Picking",
+      "description": "A triplet-feel rhythm pattern (long-short-short or short-short-long) defining classic thrash and power metal. Heavy emphasis on right-hand consistency.",
+      "difficulty_tier": 4,
+      "depends_on": ["alternate_picking", "palm_muting"],
+      "bpm_relevant": true
+    },
+    {
+      "id": "tremolo_picking",
+      "name": "Tremolo Picking",
+      "description": "Sustain a single note by picking it as fast as possible with constant alternate strokes. Core to black metal and thrash lead lines.",
+      "difficulty_tier": 5,
+      "depends_on": ["alternate_picking"],
+      "bpm_relevant": true
+    }
+  ]
+}
