@@ -23,7 +23,7 @@ def fix_enc(s: str) -> str:
 
 
 TECHNIQUE_FLAGS = {
-    "bend":       lambda n: n.bend is not None and n.bend.points,
+    "bend":       lambda n: n.effect.bend is not None and bool(n.effect.bend.points),
     "vibrato":    lambda n: n.effect.vibrato,
     "slide":      lambda n: bool(n.effect.slides),
     "hammer_on":  lambda n: n.effect.hammer,
