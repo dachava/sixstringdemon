@@ -42,9 +42,13 @@ def _bpm_component(bpm: int) -> float:
     return max(0.0, min((bpm - 60) / 180.0, 1.0))
 
 
+def _is_vocal(track: dict) -> bool:
+    return "vocal" in track["name"].lower()
+
+
 def _density_component(track_details: list) -> float:
-    """Max note density across tracks that have any technique — excludes pure drums."""
-    densities = [t["note_density"] for t in track_details if t["techniques"]]
+    """Max note density across guitar/instrument tracks — excludes vocals and pure drums."""
+    densities = [t["note_density"] for t in track_details if t["techniques"] and not _is_vocal(t)]
     return min(max(densities) / 25.0, 1.0) if densities else 0.0
 
 
@@ -52,15 +56,17 @@ def _technique_component(track_details: list, tiers: dict[str, int]) -> float:
     """
     For each technique occurrence: add tier × log(count+1).
     Log gives diminishing returns so 500 palm mutes doesn't dwarf one tapping note.
-    Normalised against 150 — a song with heavy tier-5 technique density
-    across multiple tracks approaches 1.0, but most songs spread out below it.
+    Normalised against 300 — calibrated against a 201-song library where
+    the max raw score was 274. Puts the hardest song at ~0.92 with good spread.
     """
     total = 0.0
     for track in track_details:
+        if _is_vocal(track):
+            continue
         for tech, count in track["techniques"].items():
             tier = tiers.get(TECHNIQUE_ID_MAP.get(tech, tech), 2)
             total += tier * math.log(count + 1)
-    return min(total / 150.0, 1.0)
+    return min(total / 300.0, 1.0)
 
 
 def _diversity_component(track_details: list) -> float:
