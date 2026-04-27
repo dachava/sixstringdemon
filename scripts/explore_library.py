@@ -13,6 +13,9 @@ from rich.table import Table
 from rich import box
 from rich.progress import track as rich_track
 
+sys.path.insert(0, str(Path(__file__).parent))
+import gp7
+
 console = Console()
 GP_EXTENSIONS = {".gp", ".gpx", ".gp5", ".gp4", ".gp3"}
 
@@ -55,10 +58,16 @@ def count_techniques(track) -> dict[str, int]:
 
 
 def extract_file(path: Path) -> dict | None:
+    if path.suffix.lower() == '.gp':
+        result = gp7.parse(path)
+        if result is None:
+            console.print(f"  [bold yellow][WARN][/] {path.name}: GP7 parse failed")
+        return result
+
     try:
         song = guitarpro.parse(str(path))
     except Exception as exc:
-        reason = "unsupported format (GP7? convert to GP5)" if "unsupported version" in str(exc) else str(exc)
+        reason = "unsupported format" if "unsupported version" in str(exc) else str(exc)
         console.print(f"  [bold yellow][WARN][/] {path.name}: {reason}")
         return None
 
