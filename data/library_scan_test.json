@@ -1,0 +1,337 @@
+[
+  {
+    "file": "/home/chava/Tabs/Death-Sacred Serenity-02-24-2026.gp5",
+    "filename": "Death-Sacred Serenity-02-24-2026.gp5",
+    "title": "Sacred Serenity",
+    "artist": "Death",
+    "bpm": 137,
+    "bars": 152,
+    "tracks": 6,
+    "total_technique_hits": 13,
+    "track_details": [
+      {
+        "number": 1,
+        "name": "Chuck Schuldiner | Lead Guitar - BC Ric",
+        "notes": 1396,
+        "bars": 152,
+        "note_density": 9.18,
+        "techniques": {
+          "bend": 12,
+          "vibrato": 62,
+          "slide": 24,
+          "hammer_on": 29,
+          "harmonic": 3,
+          "palm_mute": 783
+        }
+      },
+      {
+        "number": 2,
+        "name": "Bobby Koelble | Rhythm Guitar - Washbur",
+        "notes": 1231,
+        "bars": 152,
+        "note_density": 8.1,
+        "techniques": {
+          "vibrato": 28,
+          "slide": 1,
+          "palm_mute": 826
+        }
+      },
+      {
+        "number": 3,
+        "name": "Bobby Koelble | Rhythm Guitar - Washbur",
+        "notes": 256,
+        "bars": 152,
+        "note_density": 1.68,
+        "techniques": {}
+      },
+      {
+        "number": 4,
+        "name": "Chuck and Bobby | Studio Guitar/Overdub",
+        "notes": 84,
+        "bars": 152,
+        "note_density": 0.55,
+        "techniques": {
+          "bend": 1,
+          "vibrato": 7,
+          "hammer_on": 24
+        }
+      },
+      {
+        "number": 5,
+        "name": "Kelly Conlon | Fretless Bass - Washburn",
+        "notes": 1471,
+        "bars": 152,
+        "note_density": 9.68,
+        "techniques": {
+          "slide": 1
+        }
+      },
+      {
+        "number": 6,
+        "name": "Gene Hoglan | Pearl Custom \"Z\" Kit",
+        "notes": 2761,
+        "bars": 152,
+        "note_density": 18.16,
+        "techniques": {}
+      }
+    ]
+  },
+  {
+    "file": "/home/chava/Tabs/Hypocrisy-Request Denied-11-02-2016.gp5",
+    "filename": "Hypocrisy-Request Denied-11-02-2016.gp5",
+    "title": "Request Denied",
+    "artist": "Hypocrisy",
+    "bpm": 72,
+    "bars": 66,
+    "tracks": 5,
+    "total_technique_hits": 6,
+    "track_details": [
+      {
+        "number": 1,
+        "name": "Guitar 1",
+        "notes": 544,
+        "bars": 66,
+        "note_density": 8.24,
+        "techniques": {
+          "bend": 2,
+          "vibrato": 26,
+          "slide": 8,
+          "hammer_on": 2,
+          "tremolo": 8
+        }
+      },
+      {
+        "number": 2,
+        "name": "Guitar 2",
+        "notes": 541,
+        "bars": 66,
+        "note_density": 8.2,
+        "techniques": {
+          "slide": 6
+        }
+      },
+      {
+        "number": 3,
+        "name": "Bass",
+        "notes": 431,
+        "bars": 66,
+        "note_density": 6.53,
+        "techniques": {}
+      },
+      {
+        "number": 4,
+        "name": "Keyboard",
+        "notes": 168,
+        "bars": 66,
+        "note_density": 2.55,
+        "techniques": {}
+      },
+      {
+        "number": 5,
+        "name": "\u00d0\u00a3\u00d0\u00b4\u00d0\u00b0\u00d1\u20ac\u00d0\u00bd\u00d1\u2039\u00d0\u00b5",
+        "notes": 705,
+        "bars": 66,
+        "note_density": 10.68,
+        "techniques": {}
+      }
+    ]
+  },
+  {
+    "file": "/home/chava/Tabs/Iron Maiden-Seventh Son Of A Seventh Son-02-19-2026.gp5",
+    "filename": "Iron Maiden-Seventh Son Of A Seventh Son-02-19-2026.gp5",
+    "title": "Seventh Son Of A Seventh Son",
+    "artist": "Iron Maiden",
+    "bpm": 100,
+    "bars": 250,
+    "tracks": 9,
+    "total_technique_hits": 19,
+    "track_details": [
+      {
+        "number": 1,
+        "name": "Bruce Dickinson",
+        "notes": 348,
+        "bars": 250,
+        "note_density": 1.39,
+        "techniques": {
+          "hammer_on": 22
+        }
+      },
+      {
+        "number": 2,
+        "name": "Dave Murray",
+        "notes": 3222,
+        "bars": 250,
+        "note_density": 12.89,
+        "techniques": {
+          "bend": 10,
+          "vibrato": 45,
+          "slide": 5,
+          "hammer_on": 135,
+          "palm_mute": 1217
+        }
+      },
+      {
+        "number": 3,
+        "name": "Adrian Smith",
+        "notes": 2628,
+        "bars": 250,
+        "note_density": 10.51,
+        "techniques": {
+          "bend": 15,
+          "vibrato": 36,
+          "slide": 22,
+          "hammer_on": 94,
+          "harmonic": 10,
+          "palm_mute": 1575
+        }
+      },
+      {
+        "number": 4,
+        "name": "Adrian Smith",
+        "notes": 568,
+        "bars": 250,
+        "note_density": 2.27,
+        "techniques": {}
+      },
+      {
+        "number": 5,
+        "name": "Extra Guitar",
+        "notes": 3031,
+        "bars": 250,
+        "note_density": 12.12,
+        "techniques": {
+          "vibrato": 9,
+          "slide": 5,
+          "hammer_on": 26,
+          "harmonic": 4,
+          "palm_mute": 1931
+        }
+      },
+      {
+        "number": 6,
+        "name": "Steve Harris",
+        "notes": 2887,
+        "bars": 250,
+        "note_density": 11.55,
+        "techniques": {
+          "slide": 1,
+          "hammer_on": 9
+        }
+      },
+      {
+        "number": 7,
+        "name": "Steve Harris (Sintetizador)",
+        "notes": 446,
+        "bars": 250,
+        "note_density": 1.78,
+        "techniques": {}
+      },
+      {
+        "number": 8,
+        "name": "Coro",
+        "notes": 387,
+        "bars": 250,
+        "note_density": 1.55,
+        "techniques": {}
+      },
+      {
+        "number": 9,
+        "name": "Nicko McBrain",
+        "notes": 4907,
+        "bars": 250,
+        "note_density": 19.63,
+        "techniques": {}
+      }
+    ]
+  },
+  {
+    "file": "/home/chava/Tabs/Iron Maiden-Strange World-04-18-2026.gp5",
+    "filename": "Iron Maiden-Strange World-04-18-2026.gp5",
+    "title": "Strange World",
+    "artist": "Iron Maiden",
+    "bpm": 60,
+    "bars": 77,
+    "tracks": 7,
+    "total_technique_hits": 16,
+    "track_details": [
+      {
+        "number": 1,
+        "name": "Paul Di'Anno | Lead Vocals",
+        "notes": 185,
+        "bars": 77,
+        "note_density": 2.4,
+        "techniques": {
+          "vibrato": 14
+        }
+      },
+      {
+        "number": 2,
+        "name": "Dave Murray | Lead Guitar",
+        "notes": 170,
+        "bars": 77,
+        "note_density": 2.21,
+        "techniques": {
+          "bend": 45,
+          "vibrato": 21,
+          "slide": 12,
+          "hammer_on": 56
+        }
+      },
+      {
+        "number": 3,
+        "name": "Dennis Stratton | Lead Guitar",
+        "notes": 90,
+        "bars": 77,
+        "note_density": 1.17,
+        "techniques": {
+          "bend": 10,
+          "vibrato": 17,
+          "slide": 8,
+          "hammer_on": 20,
+          "harmonic": 4
+        }
+      },
+      {
+        "number": 4,
+        "name": "Dave Murray | Clean Guitar (Chorus)",
+        "notes": 570,
+        "bars": 77,
+        "note_density": 7.4,
+        "techniques": {
+          "slide": 27,
+          "hammer_on": 32,
+          "harmonic": 79
+        }
+      },
+      {
+        "number": 5,
+        "name": "Dennis Stratton | Clean Guitar (Phaser ",
+        "notes": 970,
+        "bars": 77,
+        "note_density": 12.6,
+        "techniques": {
+          "slide": 3
+        }
+      },
+      {
+        "number": 6,
+        "name": "Steve Harris | Bass Guitar",
+        "notes": 538,
+        "bars": 77,
+        "note_density": 6.99,
+        "techniques": {
+          "slide": 30,
+          "hammer_on": 1
+        }
+      },
+      {
+        "number": 7,
+        "name": "Clive Burr | Drums",
+        "notes": 1069,
+        "bars": 77,
+        "note_density": 13.88,
+        "techniques": {}
+      }
+    ]
+  }
+]

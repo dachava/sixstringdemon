@@ -42,19 +42,25 @@ def find_tabs(folder: Path) -> list[Path]:
     return sorted(p for p in folder.rglob("*") if p.suffix.lower() in GP_EXTENSIONS)
 
 
-def count_techniques(track) -> dict[str, int]:
+def count_techniques(track):
     counts = {k: 0 for k in TECHNIQUE_FLAGS}
+    bar_densities, bar_tech_hits = [], []
     for measure in track.measures:
+        bar_notes = bar_tech = 0
         for voice in measure.voices:
             for beat in voice.beats:
+                bar_notes += len(beat.notes)
                 for note in beat.notes:
                     for name, check in TECHNIQUE_FLAGS.items():
                         try:
                             if check(note):
                                 counts[name] += 1
+                                bar_tech += 1
                         except Exception:
                             pass
-    return counts
+        bar_densities.append(bar_notes)
+        bar_tech_hits.append(bar_tech)
+    return counts, bar_densities, bar_tech_hits
 
 
 def extract_file(path: Path) -> dict | None:
@@ -74,18 +80,17 @@ def extract_file(path: Path) -> dict | None:
     track_details = []
     total_hits = 0
     for track in song.tracks:
-        techniques = count_techniques(track)
-        active = {k: v for k, v in techniques.items() if v}
-        notes = sum(
-            len(beat.notes)
-            for m in track.measures for v in m.voices for beat in v.beats
-        )
+        counts, bar_densities, bar_tech_hits = count_techniques(track)
+        active = {k: v for k, v in counts.items() if v}
+        notes = sum(bar_densities)
         bars = len(track.measures)
         total_hits += len(active)
         track_details.append({
             "number": track.number, "name": fix_enc(track.name) or f"Track {track.number}",
             "notes": notes, "bars": bars,
             "note_density": round(notes / bars, 2) if bars else 0.0,
+            "bar_densities": bar_densities,
+            "bar_tech_hits": bar_tech_hits,
             "techniques": active,
         })
 

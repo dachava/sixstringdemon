@@ -1,0 +1,376 @@
+                         Library — Ranked by Difficulty                         
+                                                                                
+  Rank   Song           BPM    Score     BPM   Density   Technique   Diversity  
+ ────────────────────────────────────────────────────────────────────────────── 
+     1   Phantom Of     270      7.7    1.00      0.54        0.68        0.88  
+         The Opera                                                              
+     2   Powerslave     132      7.2    0.40      0.53        0.84        0.88  
+     3   Fuel           214      7.2    0.86      0.29        0.72        0.88  
+     4   Ride The       152      7.2    0.51      0.50        0.73        1.00  
+         Lightning                                                              
+     5   Sad But True    93      7.1    0.18      0.63        0.84        0.88  
+     6   The Memory     145      7.1    0.47      0.30        0.86        0.88  
+         Remains                                                                
+     7   Trapped In A   167      7.0    0.59      0.49        0.67        1.00  
+         Corner                                                                 
+     8   Creeping       214      6.9    0.86      0.31        0.70        0.75  
+         Death                                                                  
+     9   Mercyful       145      6.9    0.47      0.60        0.68        0.88  
+         Fate                                                                   
+    10   The            227      6.8    0.93      0.44        0.49        1.00  
+         Duellists                                                              
+    11   Transylvania   187      6.8    0.71      0.40        0.64        0.88  
+    12   Suicide And    162      6.8    0.57      0.52        0.66        0.88  
+         Redemption                                                             
+    13   The Frayed     116      6.8    0.31      0.53        0.73        1.00  
+         Ends Of                                                                
+         Sanity                                                                 
+    14   22 Acacia       84      6.7    0.13      0.83        0.68        0.88  
+         Avenue                                                                 
+    15   Killers        154      6.7    0.52      0.50        0.66        0.88  
+    16   Master of      212      6.7    0.84      0.31        0.61        0.88  
+         Puppets                                                                
+    17   The            126      6.6    0.37      0.64        0.60        1.00  
+         Philosopher                                                            
+    18   Caught         105      6.6    0.25      0.44        0.73        1.00  
+         Somewhere In                                                           
+         Time                                                                   
+    19   Where Eagles   224      6.6    0.91      0.47        0.47        0.88  
+         Dare                                                                   
+    20   Blackened      146      6.6    0.48      0.47        0.63        1.00  
+    21   2 Minutes To   186      6.5    0.70      0.34        0.60        0.88  
+         Midnight                                                               
+    22   Seventh Son    100      6.5    0.22      0.52        0.69        1.00  
+         Of A Seventh                                                           
+         Son                                                                    
+    23   Cyanide        130      6.5    0.39      0.56        0.69        0.75  
+    24   Fade to        113      6.5    0.29      0.36        0.81        0.75  
+         Black                                                                  
+    25   Without        180      6.4    0.67      0.38        0.53        1.00  
+         Judgement                                                              
+         (Best                                                                  
+         Version)                                                               
+    26   Whiskey In     133      6.4    0.41      0.59        0.60        0.88  
+         The Jar                                                                
+    27   Bite The       116      6.3    0.31      0.39        0.67        1.00  
+         Pain                                                                   
+    28   Flesh And      182      6.3    0.68      0.39        0.49        1.00  
+         The Power It                                                           
+         Holds                                                                  
+    29   Sky Is         179      6.3    0.66      0.54        0.48        0.88  
+         Falling Down                                                           
+    30   Alexander      110      6.3    0.28      0.59        0.59        1.00  
+         The Great                                                              
+    31   Back In The    251      6.3    1.00      0.32        0.43        0.88  
+         Village                                                                
+    32   The Wicker     206      6.3    0.81      0.55        0.45        0.75  
+         Man                                                                    
+    33   King Nothing   112      6.3    0.29      0.50        0.67        0.88  
+    34   One            110      6.3    0.28      0.39        0.72        0.88  
+    35   Overactive     205      6.2    0.81      0.48        0.48        0.75  
+         Imagination                                                            
+    36   The Number     198      6.2    0.77      0.51        0.43        0.88  
+         Of The Beast                                                           
+    37   The Trooper    162      6.2    0.57      0.39        0.56        0.88  
+    38   Broken, Beat   120      6.2    0.33      0.49        0.62        0.88  
+         & Scarred                                                              
+    39   No Remorse     190      6.2    0.72      0.40        0.50        0.88  
+    40   Crystal        177      6.1    0.65      0.28        0.54        0.88  
+         Mountain                                                               
+    41   Together as    210      6.1    0.83      0.59        0.33        0.88  
+         One                                                                    
+         (Corrected)                                                            
+    42   Flight Of      110      6.1    0.28      0.68        0.58        0.75  
+         Icarus                                                                 
+    43   Blitzkrieg     198      6.1    0.77      0.34        0.43        1.00  
+    44   The Day That   120      6.1    0.33      0.45        0.63        0.88  
+         Never Comes                                                            
+    45   Welcome Home    94      6.1    0.19      0.40        0.70        0.88  
+         (Sanitarium)                                                           
+    46   Hallowed Be     80      6.0    0.11      0.51        0.62        1.00  
+         Thy Name                                                               
+    47   Prowler        190      6.0    0.72      0.47        0.42        0.88  
+    48   Stone Cold     250      6.0    1.00      0.26        0.39        0.88  
+         Crazy                                                                  
+    49   The End Of     106      6.0    0.26      0.56        0.61        0.75  
+         The Line                                                               
+    50   Mentally       209      5.9    0.83      0.39        0.38        0.88  
+         Blind                                                                  
+    51   Symbolic       110      5.9    0.28      0.32        0.62        1.00  
+    52   Zero           164      5.9    0.58      0.36        0.51        0.88  
+         Tolerance                                                              
+    53   Remember        97      5.9    0.21      0.59        0.60        0.75  
+         Tomorrow                                                               
+    54   The            205      5.9    0.81      0.34        0.45        0.75  
+         Clairvoyant                                                            
+    55   ...And          96      5.9    0.20      0.34        0.68        0.88  
+         Justice for                                                            
+         All                                                                    
+    56   Eye Of The     122      5.9    0.34      0.54        0.52        0.88  
+         Beholder                                                               
+    57   The             72      5.9    0.07      0.38        0.71        0.88  
+         Unforgiven                                                             
+    58   To Live Is      54      5.9    0.00      0.42        0.72        0.88  
+         To Die                                                                 
+    59   Die With       170      5.8    0.61      0.45        0.41        0.88  
+         Your Boots                                                             
+         On                                                                     
+    60   Moonchild      103      5.8    0.24      0.45        0.54        1.00  
+    61   Wrathchild     104      5.8    0.24      0.74        0.51        0.75  
+    62   Ain't My       156      5.8    0.53      0.40        0.52        0.75  
+         Bitch                                                                  
+    63   Dyers Eve      190      5.8    0.72      0.43        0.39        0.88  
+    64   My             188      5.8    0.71      0.40        0.41        0.88  
+         Apocalypse                                                             
+    65   The Shortest   140      5.8    0.44      0.44        0.50        0.88  
+         Straw                                                                  
+    66   Perennial      140      5.7    0.44      0.28        0.51        1.00  
+         Quest                                                                  
+    67   Rime Of The    112      5.7    0.29      0.43        0.54        0.88  
+         Ancient                                                                
+         Mariner                                                                
+    68   Don't Tread    165      5.7    0.58      0.62        0.37        0.75  
+         On Me                                                                  
+    69   Genetic        122      5.6    0.34      0.88        0.29        0.88  
+         Reconstruct…                                                           
+    70   Jealousy       138      5.6    0.43      0.45        0.44        0.88  
+    71   Leprosy        124      5.6    0.36      0.51        0.41        1.00  
+    72   Sacred         137      5.6    0.43      0.39        0.44        1.00  
+         Serenity                                                               
+    73   God Is a Lie   240      5.6    1.00      0.33        0.29        0.75  
+    74   Aces High      160      5.6    0.56      0.31        0.46        0.88  
+    75   Dance Of       135      5.6    0.42      0.22        0.56        0.88  
+         Death                                                                  
+    76   Losfer Words   230      5.6    0.94      0.43        0.23        0.88  
+    77   Fight Fire      80      5.6    0.11      0.53        0.55        0.88  
+         With Fire                                                              
+    78   Hit The        160      5.6    0.56      0.50        0.38        0.88  
+         Lights                                                                 
+    79   Seek &         143      5.6    0.46      0.34        0.48        0.88  
+         Destroy                                                                
+    80   The Struggle   150      5.6    0.50      0.37        0.45        0.88  
+         Within                                                                 
+    81   Hang Him        98      5.5    0.21      0.97        0.33        0.75  
+         High                                                                   
+    82   Heaven Can     190      5.5    0.72      0.41        0.41        0.62  
+         Wait                                                                   
+    83   Running Free   170      5.5    0.61      0.56        0.30        0.88  
+    84   Bleeding Me    116      5.5    0.31      0.43        0.49        0.88  
+    85   So What        190      5.5    0.72      0.51        0.32        0.75  
+    86   Trapped        136      5.5    0.42      0.61        0.37        0.88  
+         Under Ice                                                              
+    87   Fusion          85      5.4    0.14      1.00        0.34        0.75  
+         Programmed                                                             
+         Minds                                                                  
+    88   Be Quick Or    246      5.4    1.00      0.31        0.31        0.62  
+         Be Dead                                                                
+    89   Stairway to     71      5.4    0.06      1.00        0.32        0.88  
+         Heaven                                                                 
+    90   Frantic        162      5.4    0.57      0.36        0.42        0.75  
+    91   The Outlaw      60      5.4    0.00      0.61        0.56        0.75  
+         Torn                                                                   
+    92   Wherever I     110      5.4    0.28      0.26        0.55        0.88  
+         May Roam                                                               
+    93   Lack Of        105      5.3    0.25      0.44        0.46        0.88  
+         Comprehensi…                                                           
+    94   Through the    130      5.3    0.39      0.77        0.29        0.75  
+         Window of                                                              
+         Time                                                                   
+    95   Valley Of      114      5.3    0.30      0.76        0.34        0.75  
+         The Damned                                                             
+    96   Infinite        74      5.3    0.08      0.45        0.59        0.75  
+         Dreams                                                                 
+    97   Iron Maiden    100      5.3    0.22      0.64        0.38        0.88  
+    98   Wasted Years   145      5.3    0.47      0.56        0.32        0.88  
+    99   For Whom The   118      5.3    0.32      0.38        0.41        1.00  
+         Bell Tolls                                                             
+   100   Holier Than    175      5.3    0.64      0.40        0.35        0.75  
+         Thou                                                                   
+   101   Jump In The    174      5.3    0.63      0.44        0.30        0.88  
+         Fire                                                                   
+   102   No Leaf         77      5.3    0.09      0.69        0.43        0.88  
+         Clover                                                                 
+   103   That Was        84      5.3    0.13      0.46        0.51        0.88  
+         Just Your                                                              
+         Life                                                                   
+   104   Secret Face    145      5.2    0.47      0.54        0.33        0.75  
+   105   Adjusting      200      5.2    0.78      0.38        0.30        0.62  
+         The Sun                                                                
+   106   Only The       168      5.2    0.60      0.41        0.34        0.75  
+         Good Die                                                               
+         Young                                                                  
+   107   Enter          123      5.2    0.35      0.36        0.44        0.88  
+         Sandman                                                                
+   108   Escape         130      5.2    0.39      0.47        0.41        0.75  
+   109   Of Wolf And    122      5.2    0.34      0.44        0.40        0.88  
+         Man                                                                    
+   110   Phantom Lord    30      5.2    0.00      0.57        0.46        1.00  
+   111   Compulsive     185      5.1    0.69      0.33        0.30        0.75  
+         Psychosis                                                              
+   112   The Evil       130      5.1    0.39      0.39        0.37        0.88  
+         That Men Do                                                            
+   113   Here Comes     132      5.1    0.40      0.41        0.37        0.88  
+         Revenge                                                                
+   114   Born Dead      150      5.0    0.50      0.56        0.27        0.75  
+         (Corrected)                                                            
+   115   Open Casket    158      5.0    0.54      0.46        0.26        0.88  
+   116   Inseminated    105      5.0    0.25      0.83        0.35        0.50  
+         Adoption                                                               
+   117   Run To The     120      5.0    0.33      0.39        0.37        0.88  
+         Hills                                                                  
+   118   Confusion      120      5.0    0.33      0.43        0.40        0.75  
+   119   Harvester of    92      5.0    0.18      0.62        0.39        0.75  
+         Sorrow                                                                 
+   120   Metal          175      5.0    0.64      0.50        0.22        0.75  
+         Militia                                                                
+   121   The God That    83      5.0    0.13      0.50        0.42        0.88  
+         Failed                                                                 
+   122   Forgotten      145      4.9    0.47      0.56        0.26        0.75  
+         Past                                                                   
+   123   Can I Play     140      4.9    0.44      0.54        0.28        0.75  
+         With Madness                                                           
+   124   Stranger In    110      4.9    0.28      0.41        0.36        0.88  
+         A Strange                                                              
+         Land                                                                   
+   125   Battery         76      4.9    0.09      0.38        0.50        0.75  
+   126   Turn the        75      4.9    0.08      0.62        0.40        0.75  
+         Page                                                                   
+   127   Reversed       155      4.8    0.53      0.64        0.21        0.62  
+         Reflections                                                            
+   128   Children Of     70      4.8    0.06      0.37        0.45        0.88  
+         The Damned                                                             
+   129   Dream Of       100      4.8    0.22      0.46        0.39        0.75  
+         Mirrors                                                                
+   130   Strange         60      4.8    0.00      0.50        0.46        0.75  
+         World                                                                  
+   131   St. Anger      186      4.8    0.70      0.68        0.11        0.62  
+   132   Symbolic (E    110      4.7    0.28      0.30        0.40        0.75  
+         Tuning)                                                                
+   133   Scrutinized    200      4.7    0.78      0.47        0.24        0.38  
+   134   Turn The       180      4.7    0.67      0.65        0.20        0.38  
+         Page                                                                   
+   135   Ecstasy Of     160      4.7    0.56      0.40        0.23        0.75  
+         Gold                                                                   
+   136   Nothing Else    71      4.7    0.06      0.38        0.43        0.88  
+         Matters                                                                
+   137   Nowhere To      80      4.6    0.11      1.00        0.24        0.50  
+         Run                                                                    
+   138   Final          127      4.5    0.37      1.00        0.08        0.50  
+         Chapter                                                                
+   139   Tamed Filled   221      4.5    0.89      0.24        0.24        0.38  
+         With Fear                                                              
+   140   Wasting Love    74      4.5    0.08      0.40        0.35        0.88  
+   141   The Thing      113      4.5    0.29      0.44        0.28        0.75  
+         That Should                                                            
+         Not Be                                                                 
+   142   Fear Of The     80      4.4    0.11      0.44        0.34        0.75  
+         Dark                                                                   
+   143   Together As    210      4.3    0.83      0.53        0.07        0.38  
+         One                                                                    
+   144   Osculum        128      4.3    0.38      0.64        0.16        0.62  
+         Obscenum (10                                                           
+         Years Of                                                               
+         Chaos                                                                  
+         Version)                                                               
+   145   Blinded        100      4.2    0.22      0.67        0.23        0.50  
+   146   Fearless       120      4.2    0.33      0.79        0.17        0.38  
+   147   Point Of No    153      4.2    0.52      0.45        0.20        0.50  
+         Return                                                                 
+   148   Suicide        100      4.1    0.22      0.45        0.25        0.62  
+         Machine                                                                
+   149   Blackened      144      4.1    0.47      0.13        0.34        0.50  
+         Reversed                                                               
+         Intro                                                                  
+   150   Fractured      125      4.0    0.36      0.34        0.26        0.50  
+         Millennium                                                             
+   151   Slave To The   200      4.0    0.78      0.28        0.15        0.38  
+         Parasites                                                              
+   152   Still Born     170      4.0    0.61      0.47        0.13        0.38  
+   153   Dead Sky       160      3.9    0.56      0.51        0.13        0.38  
+         Dawning                                                                
+   154   End Of         105      3.9    0.25      0.69        0.17        0.38  
+         Disclosure                                                             
+   155   Until The      125      3.9    0.36      0.39        0.21        0.50  
+         End                                                                    
+   156   Warpath        115      3.9    0.31      0.78        0.11        0.38  
+   157   Weed Out The   185      3.9    0.69      0.28        0.17        0.38  
+         Weak                                                                   
+   158   Deathrow (No    65      3.8    0.03      0.28        0.27        0.88  
+         Regrets)                                                               
+   159   Killing Art    240      3.8    1.00      0.22        0.10        0.12  
+   160   The Arrival    130      3.8    0.39      0.25        0.16        0.75  
+         Of The                                                                 
+         Demons                                                                 
+   161   Children Of     95      3.7    0.19      0.31        0.24        0.62  
+         The Gray                                                               
+   162   Inquire         70      3.7    0.06      0.88        0.13        0.38  
+         Within                                                                 
+   163   Let The        101      3.7    0.23      0.35        0.21        0.62  
+         Knife Do The                                                           
+         Talking                                                                
+   164   Taste the       55      3.7    0.00      0.87        0.14        0.38  
+         Extreme                                                                
+         Divinity                                                               
+         (AI)                                                                   
+   165   The            150      3.7    0.50      0.32        0.18        0.38  
+         Departure                                                              
+   166   A Public       110      3.6    0.28      0.75        0.11        0.25  
+         Puppet                                                                 
+   167   Chemical        90      3.6    0.17      0.39        0.18        0.62  
+         Whore                                                                  
+   168   Destroyed      175      3.6    0.64      0.40        0.10        0.25  
+         (GUITAR/BAS…                                                           
+   169   Destroyed      175      3.6    0.64      0.40        0.10        0.25  
+   170   Hatred         100      3.6    0.22      0.70        0.12        0.38  
+   171   A Thousand     130      3.5    0.39      0.52        0.12        0.25  
+         Lies                                                                   
+   172   Osculum        125      3.5    0.36      0.45        0.14        0.38  
+         Obscenum                                                               
+   173   Uncontrolled   129      3.5    0.38      0.37        0.20        0.25  
+   174   No Tomorrow    120      3.4    0.33      0.44        0.13        0.38  
+   175   Paranormal     110      3.4    0.28      0.56        0.14        0.25  
+         Mysteria                                                               
+   176   Born Dead      150      3.3    0.50      0.36        0.10        0.25  
+         Buried Alive                                                           
+   177   Drained         51      3.3    0.00      0.36        0.15        0.75  
+   178   Necronomico…   155      3.3    0.53      0.55        0.04        0.12  
+         song)                                                                  
+   179   Pleasure Of    140      3.3    0.44      0.28        0.13        0.38  
+         Molestation                                                            
+   180   A Coming       125      3.2    0.36      0.32        0.11        0.38  
+         Race Ver 2                                                             
+   181   Don't Judge    110      3.2    0.28      0.81        0.02        0.12  
+         Me                                                                     
+   182   Elastic         95      3.2    0.19      0.55        0.13        0.25  
+         Inverted                                                               
+         Vision                                                                 
+   183   Left To Rot    170      3.2    0.61      0.39        0.06        0.12  
+   184   Seeds of the   115      3.2    0.31      0.48        0.07        0.38  
+         Choosen One                                                            
+   185   Eraser         100      3.1    0.22      0.47        0.08        0.38  
+   186   Living To      140      3.1    0.44      0.18        0.15        0.25  
+         Die                                                                    
+   187   Buried         160      3.0    0.56      0.43        0.02        0.12  
+   188   Fire In The    110      3.0    0.28      0.45        0.08        0.25  
+         Sky                                                                    
+   189   Global         105      3.0    0.25      0.44        0.11        0.25  
+         Domination                                                             
+   190   Request         72      2.9    0.07      0.33        0.09        0.62  
+         Denied                                                                 
+   191   They Will      130      2.9    0.39      0.56        0.01        0.12  
+         Arrive                                                                 
+   192   Apocalypse     130      2.8    0.39      0.13        0.06        0.50  
+   193   Roswell 47     107      2.8    0.26      0.46        0.08        0.12  
+   194   Slippin'        60      2.8    0.00      0.34        0.08        0.62  
+         Away                                                                   
+   195   Edge Of        125      2.7    0.36      0.24        0.08        0.25  
+         Madness                                                                
+   196   Gods Of The    140      2.7    0.44      0.38        0.01        0.12  
+         Underground                                                            
+   197   A Coming       120      2.6    0.33      0.31        0.04        0.25  
+         Race                                                                   
+   198   Impotent God   195      2.4    0.75      0.00        0.00        0.00  
+   199   Dead World     115      1.6    0.31      0.00        0.00        0.00  
+   200   Lies           120      1.6    0.33      0.00        0.00        0.00  
+   201   War Within     122      1.6    0.34      0.00        0.00        0.00  
+                                                                                

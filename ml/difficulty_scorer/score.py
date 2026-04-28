@@ -48,24 +48,28 @@ def main(library_json, techniques, output, detail):
     table.add_column("Rank", justify="right", style="dim", width=4)
     table.add_column("Song", style="bold", max_width=42)
     table.add_column("BPM", justify="right")
-    table.add_column("Score", justify="right", width=6)
+    table.add_column("Body", justify="right", width=5)
+    table.add_column("Peak", justify="right", width=5)
     if detail:
         table.add_column("BPM", justify="right", style="dim", width=5)
-        table.add_column("Density", justify="right", style="dim", width=7)
+        table.add_column("D-body", justify="right", style="dim", width=6)
+        table.add_column("D-peak", justify="right", style="dim", width=6)
         table.add_column("Technique", justify="right", style="dim", width=9)
         table.add_column("Diversity", justify="right", style="dim", width=9)
 
     for rank, entry in enumerate(ranked, 1):
-        d     = entry["difficulty"]
-        c     = d["components"]
-        score = d["score"]
-        label = entry["title"] or entry["filename"]
+        d          = entry["difficulty"]
+        c          = d["components"]
+        body_score = d["body_score"]
+        peak_score = d["peak_score"]
+        label      = entry["title"] or entry["filename"]
         row = [
             str(rank), label, str(entry["bpm"]),
-            f"[{difficulty_color(score)}]{score}[/]",
+            f"[{difficulty_color(body_score)}]{body_score}[/]",
+            f"[{difficulty_color(peak_score)}]{peak_score}[/]",
         ]
         if detail:
-            row += [f"{c['bpm']:.2f}", f"{c['density']:.2f}",
+            row += [f"{c['bpm']:.2f}", f"{c['density_body']:.2f}", f"{c['density_peak']:.2f}",
                     f"{c['technique']:.2f}", f"{c['diversity']:.2f}"]
         table.add_row(*row)
 
